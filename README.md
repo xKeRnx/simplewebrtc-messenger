@@ -2,7 +2,6 @@
 
 A tutorial on building a WebRTC video chat app with [SimpleWebRTC](https://simplewebrtc.com/) , that allows you to communicate with (for example) your customers in real-time.
 
-Article URL: [http://www.sitepoint.com/webrtc-video-chat-application-peerjs](http://www.sitepoint.com/webrtc-video-chat-application-peerjs)
 
 ## Requirements
 
